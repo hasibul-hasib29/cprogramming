@@ -10,7 +10,7 @@ int main(){
 
     int i=0;
 
-    for
+    
 
     // for(int i=0; i<7; i++)
     //   printf("<%c>\n", str[i]);
@@ -51,4 +51,8 @@ int main(){
     return 0;
 
     */
+
+   // some changes
+
+   // hey you
 }
